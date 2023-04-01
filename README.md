@@ -5,9 +5,9 @@ Script ./hcp.sh şeklinde cçalışır. Kullanılabilir diğer parametreler -v -
 /var/log/database.txt dosyasından FTP için gerekli kullanıcı adı ve şifre bilgisini alır. HCPUSER ve HCPPWD değerlerini kullanır.<br>
 Eski çiktilari saklamak adına oluşturulan dosya /var/log/egis/hcp/ altına kopyalanır.<br>
 
-./hcp.sh -v ile mecvut scriptin sürümünü öğrenebilirsiniz.
-./hcp.sh -u ile script sürümünü güncelleyebilirsiniz.
-./hcp.sh -h ve diğer tüm tuşlar şu an okuduğunuz yardım menusünü getirecektir.
+./hcp.sh -v ile mecvut scriptin sürümünü öğrenebilirsiniz.<br>
+./hcp.sh -u ile script sürümünü güncelleyebilirsiniz.<br>
+./hcp.sh -h ve diğer tüm tuşlar şu an okuduğunuz yardım menusünü getirecektir.<br>
 
 
 
