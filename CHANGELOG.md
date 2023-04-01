@@ -7,7 +7,7 @@
 <p>CLIREPORT FTP ile gonderilmeye baslandi.</p>
 <p>Ekran temizleme, reklam ve bildirimler eklendi.</p>
 <p><h3>Çıkarılan</h3></p>
-<p>HCP'nin silent calismasi iptal edildi./p>
+<p>HCP'nin silent calismasi iptal edildi.</p>
 <p><h3>Değiştirilen</h3></p>
 <p>Help menusu yenilendi.</p>
 
